@@ -4,4 +4,5 @@ Program that simulates the orbit of an orbiting mass around a central mass(satel
 
 Below can be seen two images of the satellite's orbit with differing initial velocities:
 ![alt text](https://github.com/KMKielan/RK4-Orbiting-Satellite/blob/master/Orbits.png)
+
 The image on the right with an initial velocity of 3.07km/s and the image on the left with an initial velocity of 2.07km/s. Changing the velocity by 1km/s has drastically altered the trajectory of the satellite around the Earth. Changing the velocity even more can result in a hyperbolic orbit with the satellite never returning.
